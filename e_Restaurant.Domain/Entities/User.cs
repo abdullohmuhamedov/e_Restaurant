@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using e_Restaurant.Domain.Commons;
 
-namespace e_Restaurant.Domain.Entities
+namespace e_Restaurant.Domain.Entities;
+
+public class User : Auditable
 {
-    internal class User
-    {
-    }
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public string Email { get; set; }
+    public string Password { get; set; }
+
 }
