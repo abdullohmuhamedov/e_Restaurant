@@ -1,0 +1,12 @@
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\bin\Debug\net6.0\e_Restaurant.DAL.deps.json
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\bin\Debug\net6.0\e_Restaurant.DAL.dll
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\bin\Debug\net6.0\e_Restaurant.DAL.pdb
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\e_Restaurant.DAL.csproj.AssemblyReference.cache
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\e_Restaurant.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\e_Restaurant.DAL.AssemblyInfoInputs.cache
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\e_Restaurant.DAL.AssemblyInfo.cs
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\e_Restaurant.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\e_Restaurant.DAL.dll
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\refint\e_Restaurant.DAL.dll
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\e_Restaurant.DAL.pdb
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.DAL\obj\Debug\net6.0\ref\e_Restaurant.DAL.dll

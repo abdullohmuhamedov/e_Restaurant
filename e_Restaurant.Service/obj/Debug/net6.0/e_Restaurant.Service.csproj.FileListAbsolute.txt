@@ -1,0 +1,12 @@
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\bin\Debug\net6.0\e_Restaurant.Service.deps.json
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\bin\Debug\net6.0\e_Restaurant.Service.dll
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\bin\Debug\net6.0\e_Restaurant.Service.pdb
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\e_Restaurant.Service.csproj.AssemblyReference.cache
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\e_Restaurant.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\e_Restaurant.Service.AssemblyInfoInputs.cache
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\e_Restaurant.Service.AssemblyInfo.cs
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\e_Restaurant.Service.csproj.CoreCompileInputs.cache
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\e_Restaurant.Service.dll
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\refint\e_Restaurant.Service.dll
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\e_Restaurant.Service.pdb
+C:\Users\Abdulloh\source\repos\e_Restaurant\e_Restaurant.Service\obj\Debug\net6.0\ref\e_Restaurant.Service.dll
