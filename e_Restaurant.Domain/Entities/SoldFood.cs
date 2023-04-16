@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using e_Restaurant.Domain.Commons;
+namespace e_Restaurant.Domain.Entities; 
 
-namespace e_Restaurant.Domain.Entities
+public class SoldFood : Auditable 
 {
-    internal class SoldFood
-    {
-    }
+
 }

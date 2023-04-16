@@ -13,7 +13,6 @@ public class DbContextApp : DbContext
     }
     public DbSet<User> Users { get; set; }
     public DbSet<Address> Addresses { get; set; }
-    public DbSet<Location> Locations { get; set; }
-    public DbSet<Merchant> Merchants { get; set; }
-    public DbSet<Order> Orders { get; set; }
+    public DbSet<Food> Foods { get; set; }
+    public DbSet<SoldFood> SoldFoods { get; set; }
 }

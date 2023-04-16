@@ -1,5 +1,7 @@
-﻿namespace e_Restaurant.Domain.Entities;
+﻿using e_Restaurant.Domain.Commons;
 
-public class Food
+namespace e_Restaurant.Domain.Entities;
+
+public class Food : Auditable
 {
 }
